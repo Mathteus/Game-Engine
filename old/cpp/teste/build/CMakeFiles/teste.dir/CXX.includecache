@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/henrique/A/cpp/teste/cryptografia.h
+string
+-
+ctime
+-
+algorithm
+-
+
+/media/henrique/A/cpp/teste/main.cpp
+iostream
+-
+cryptografia.h
+/media/henrique/A/cpp/teste/cryptografia.h
+sstream
+-
+string
+-
+

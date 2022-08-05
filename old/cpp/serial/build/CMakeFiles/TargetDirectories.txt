@@ -1,0 +1,3 @@
+/home/henrique/Documents/cpp/serial/build/CMakeFiles/rebuild_cache.dir
+/home/henrique/Documents/cpp/serial/build/CMakeFiles/edit_cache.dir
+/home/henrique/Documents/cpp/serial/build/CMakeFiles/conexaoSerial.dir

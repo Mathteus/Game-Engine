@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/conexaoSerial.dir/src/main.cpp.o CMakeFiles/conexaoSerial.dir/src/myserial.cpp.o CMakeFiles/conexaoSerial.dir/src/serialdata.cpp.o  -o conexaoSerial  -ldl -L/usr/local/lib -lserial 

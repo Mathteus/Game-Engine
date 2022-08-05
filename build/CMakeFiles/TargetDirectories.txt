@@ -1,0 +1,3 @@
+/media/henrique/A/cpp/Engine/build/CMakeFiles/rebuild_cache.dir
+/media/henrique/A/cpp/Engine/build/CMakeFiles/edit_cache.dir
+/media/henrique/A/cpp/Engine/build/CMakeFiles/Engine.dir
